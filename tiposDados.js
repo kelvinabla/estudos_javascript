@@ -13,5 +13,5 @@ console.log(typeof c2);
 let d;
 console.log(typeof x);
 
-let e = null;
-console.log(typeof e);
+// let e = null;
+// console.log(typeof e);
